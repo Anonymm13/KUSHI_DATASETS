@@ -1,0 +1,31 @@
+VENDOR_NAME,Vendor_SSN,Vendor_STREET_NAME,Vendor_CITY,Vendor_STATE,Vendor_Country,Vendor_zip,Vendor_email,Vendor_phone
+Daniel Garcia,381794366,Park Avenue,San Antonio,CA,USA,94824,daniel.garcia@example.com,6857203075
+Emily Hernandez,120478614,Elm Street,Houston,CA,USA,25393,emily.hernandez@example.com,2583207296
+John Miller,257049694,Park Avenue,Los Angeles,AZ,USA,65608,john.miller@example.com,3063067354
+Daniel Brown,962487130,Maple Street,Phoenix,PA,USA,45742,daniel.brown@example.com,2070975281
+Emily Garcia,680048292,Cedar Street,Los Angeles,PA,USA,17717,emily.garcia@example.com,9766752271
+Jane Martinez,482133405,Walnut Street,Philadelphia,CA,USA,77265,jane.martinez@example.com,3284278066
+Michael Martinez,946046769,Birch Street,Dallas,AZ,USA,48876,michael.martinez@example.com,4100906096
+Olivia Johnson,303690597,Birch Street,Philadelphia,NY,USA,74947,olivia.johnson@example.com,1118183833
+Sophia Martinez,322835487,Elm Street,Dallas,AZ,USA,30959,sophia.martinez@example.com,8392037036
+Chris Johnson,657703513,Oak Street,Dallas,CA,USA,13796,chris.johnson@example.com,7097474581
+Olivia Brown,358498854,High Street,San Diego,CA,USA,17328,olivia.brown@example.com,1124603738
+Sophia Hernandez,920972894,Maple Street,San Jose,IL,USA,14353,sophia.hernandez@example.com,3904863093
+John Martinez,967174086,Birch Street,San Antonio,IL,USA,43193,john.martinez@example.com,6884974081
+David Garcia,918797551,Birch Street,Los Angeles,PA,USA,51567,david.garcia@example.com,1430929737
+Daniel Jones,328847093,Walnut Street,San Diego,PA,USA,99364,daniel.jones@example.com,4552854127
+Emma Hernandez,429559367,Birch Street,Chicago,AZ,USA,59174,emma.hernandez@example.com,4777109237
+David Davis,201743834,Maple Street,Houston,PA,USA,92228,david.davis@example.com,9076650907
+Emily Davis,563584864,Oak Street,Los Angeles,CA,USA,86136,emily.davis@example.com,9286955519
+Daniel Hernandez,261771620,Park Avenue,San Diego,TX,USA,81675,daniel.hernandez@example.com,5754185903
+Emily Smith,720267385,Pine Street,Dallas,AZ,USA,85665,emily.smith@example.com,2035861920
+Daniel Brown,734668920,Maple Street,New York,CA,USA,34248,daniel.brown@example.com,9288255767
+Michael Jones,353157127,Park Avenue,Dallas,PA,USA,45785,michael.jones@example.com,1591217984
+David Martinez,959707399,Elm Street,San Diego,CA,USA,79339,david.martinez@example.com,7845858122
+Sophia Miller,122566638,Oak Street,San Diego,IL,USA,93010,sophia.miller@example.com,2672338152
+Jane Garcia,891826848,Maple Street,Los Angeles,TX,USA,49296,jane.garcia@example.com,6850977540
+Sophia Smith,970794686,Walnut Street,San Diego,CA,USA,90562,sophia.smith@example.com,9876901613
+Emma Davis,737756102,Main Street,New York,CA,USA,84243,emma.davis@example.com,3567997927
+Jane Smith,668372863,Walnut Street,Dallas,TX,USA,95261,jane.smith@example.com,9319571238
+Chris Martinez,377985503,Park Avenue,Phoenix,CA,USA,94005,chris.martinez@example.com,6112418949
+David Williams,143495139,Walnut Street,New York,AZ,USA,46119,david.williams@example.com,4249587849

@@ -1,0 +1,31 @@
+Geography_Id,Geography_name
+GEO001,Northern Europe
+GEO002,Europe
+GEO003,Pacific Islands
+GEO004,East Asia
+GEO005,Pacific Islands
+GEO006,Pacific Islands
+GEO007,North Africa
+GEO008,North America
+GEO009,Sub-Saharan Africa
+GEO010,Atlantic Islands
+GEO011,Africa
+GEO012,Pacific Islands
+GEO013,Pacific Islands
+GEO014,Central America
+GEO015,Baltic States
+GEO016,Atlantic Islands
+GEO017,Mediterranean
+GEO018,West Asia
+GEO019,West Asia
+GEO020,North America
+GEO021,Central America
+GEO022,Eastern Europe
+GEO023,Middle East
+GEO024,South America
+GEO025,West Asia
+GEO026,Baltic States
+GEO027,Scandinavia
+GEO028,Europe
+GEO029,North America
+GEO030,Arctic
